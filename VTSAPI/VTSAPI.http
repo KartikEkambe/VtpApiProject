@@ -1,0 +1,6 @@
+@VTSAPI_HostAddress = http://localhost:5293
+
+GET {{VTSAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

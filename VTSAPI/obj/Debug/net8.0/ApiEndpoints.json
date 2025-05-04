@@ -1,0 +1,181 @@
+[
+  {
+    "ContainingType": "VTSAPI.Controllers.UserMasterController",
+    "Method": "AddUser",
+    "RelativePath": "api/UserMaster/AddUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "VTSAPI.Model.UserMaster",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VTSAPI.Controllers.UserMasterController",
+    "Method": "AddUserVehicle",
+    "RelativePath": "api/UserMaster/AddUserVehicle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vehicleDetails",
+        "Type": "VTSAPI.Model.UserVehicleDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VTSAPI.Controllers.UserMasterController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/UserMaster/DeleteUser/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VTSAPI.Controllers.UserMasterController",
+    "Method": "DeleteUserVehicle",
+    "RelativePath": "api/UserMaster/DeleteUserVehicle/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VTSAPI.Controllers.UserMasterController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/UserMaster/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VTSAPI.Controllers.UserMasterController",
+    "Method": "GetAllUserVehicles",
+    "RelativePath": "api/UserMaster/GetAllUserVehicles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VTSAPI.Controllers.UserMasterController",
+    "Method": "GetUsersById",
+    "RelativePath": "api/UserMaster/GetUsersById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VTSAPI.Controllers.UserMasterController",
+    "Method": "GetUserVehiclesById",
+    "RelativePath": "api/UserMaster/GetUserVehiclesById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VTSAPI.Controllers.UserMasterController",
+    "Method": "Updateusers",
+    "RelativePath": "api/UserMaster/UpdateUser/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "user",
+        "Type": "VTSAPI.Model.UserMaster",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VTSAPI.Controllers.UserMasterController",
+    "Method": "UpdateUserVehicles",
+    "RelativePath": "api/UserMaster/UpdateUserVehicles/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "userVehicle",
+        "Type": "VTSAPI.Model.UserVehicleDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VTSAPI.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[VTSAPI.WeatherForecast, VTSAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

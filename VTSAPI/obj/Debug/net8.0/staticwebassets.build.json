@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yVCidfSR3YIsO1FUkMcw1bNBRvKlA667e1ZhZ2mNlQc=",
+  "Source": "VTSAPI",
+  "BasePath": "_content/VTSAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
