@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\VTSAPI\\VTSAPI\\VTSAPI.csproj": {}
+    "D:\\C# DotNet\\VTSAPI\\VTSAPI\\VTSAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\VTSAPI\\VTSAPI\\VTSAPI.csproj": {
+    "D:\\C# DotNet\\VTSAPI\\VTSAPI\\VTSAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\VTSAPI\\VTSAPI\\VTSAPI.csproj",
+        "projectUniqueName": "D:\\C# DotNet\\VTSAPI\\VTSAPI\\VTSAPI.csproj",
         "projectName": "VTSAPI",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\VTSAPI\\VTSAPI\\VTSAPI.csproj",
+        "projectPath": "D:\\C# DotNet\\VTSAPI\\VTSAPI\\VTSAPI.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\VTSAPI\\VTSAPI\\obj\\",
+        "outputPath": "D:\\C# DotNet\\VTSAPI\\VTSAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
