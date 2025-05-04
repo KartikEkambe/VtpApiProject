@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VTSAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53ebcd7f631fb0544e09c215b8ab337b090cf780")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8967ba24520e2f27a96aea5222baee79b24b5023")]
 [assembly: System.Reflection.AssemblyProductAttribute("VTSAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VTSAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
